@@ -1,4 +1,4 @@
-local visibility_states = { "always", "auto", "never" }
+local visibility_states = { "auto", "always", "never" }
 local current_state = 1
 
 function toggle_osc_visibility()
